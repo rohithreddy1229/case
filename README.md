@@ -7,6 +7,7 @@ Setup:
 1) Log in to your MySQL server.
 2) Create the Database and Tables
 
+Run:
 1)Open hospital_management_system.py and update the MySQL connection details
 2)Run the Application
 
